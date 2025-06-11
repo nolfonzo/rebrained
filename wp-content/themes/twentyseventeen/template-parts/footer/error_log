@@ -1,0 +1,32 @@
+[30-Mar-2022 11:20:43 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php on line 14
+[30-Mar-2022 12:53:48 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/footer/site-info.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/footer/site-info.php on line 18
+[08-Aug-2022 01:25:02 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php on line 14
+[08-Aug-2022 05:43:12 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/footer/site-info.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/footer/site-info.php on line 18
+[19-Aug-2022 22:52:09 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/footer/site-info.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/footer/site-info.php on line 18
+[20-Aug-2022 06:10:10 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php on line 14
+[08-Jul-2023 11:55:06 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/footer/site-info.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/footer/site-info.php on line 18
+[08-Jul-2023 16:45:00 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php on line 14

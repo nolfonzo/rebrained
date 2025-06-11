@@ -1,0 +1,16 @@
+[30-Mar-2022 14:17:10 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr_e() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/navigation/navigation-top.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/navigation/navigation-top.php on line 12
+[08-Aug-2022 07:20:26 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr_e() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/navigation/navigation-top.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/navigation/navigation-top.php on line 12
+[20-Aug-2022 03:45:23 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr_e() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/navigation/navigation-top.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/navigation/navigation-top.php on line 12
+[08-Jul-2023 23:00:10 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr_e() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/navigation/navigation-top.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/navigation/navigation-top.php on line 12

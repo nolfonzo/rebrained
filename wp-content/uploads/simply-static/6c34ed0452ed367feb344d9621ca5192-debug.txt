@@ -1,0 +1,261 @@
+[2025-06-11 02:10:23] [class-ss-archive-creation-job.php:119] Starting a job; no job is presently running
+[2025-06-11 02:10:23] [class-ss-archive-creation-job.php:120] Here's our task list: setup, fetch_urls, create_zip_archive, wrapup
+[2025-06-11 02:10:23] [class-ss-archive-creation-job.php:138] Pushing first task to queue: setup
+[2025-06-11 02:10:23] [class-ss-archive-creation-job.php:194] Current task: setup
+[2025-06-11 02:10:23] [class-ss-archive-creation-job.php:208] Performing task: setup
+[2025-06-11 02:10:23] [class-ss-task.php:44] Status message: [setup] Setting up
+[2025-06-11 02:10:23] [class-ss-setup-task.php:33] Creating archive directory: /home2/nolfonzo/public_html/rebrainedwp-content/uploads/simply-static/temp-files/simply-static-1-1749607823/
+[2025-06-11 02:10:23] [class-ss-setup-task.php:72] Adding origin URL to queue: https://rebrained.com/
+[2025-06-11 02:10:23] [class-ss-archive-creation-job.php:233] We've found our next task: fetch_urls
+[2025-06-11 02:10:23] [class-ss-archive-creation-job.php:194] Current task: fetch_urls
+[2025-06-11 02:10:23] [class-ss-archive-creation-job.php:208] Performing task: fetch_urls
+[2025-06-11 02:10:23] [class-ss-fetch-urls-task.php:69] Total pages: 1; Pages remaining: 1
+[2025-06-11 02:10:23] [class-ss-fetch-urls-task.php:73] URL: https://rebrained.com/
+[2025-06-11 02:10:23] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 1
+[2025-06-11 02:10:23] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-06-11 02:10:23] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6848e58f72ccf-HLsHeI.tmp
+[2025-06-11 02:10:23] [class-ss-page-handler.php:38] URL Prepared:https://rebrained.com/?simply_static_page=1
+[2025-06-11 02:10:23] [class-ss-url-fetcher.php:251] Fetching URL: https://rebrained.com/?simply_static_page=1
+[2025-06-11 02:10:23] [class-ss-url-fetcher.php:103] Filesize: 92827 bytes
+[2025-06-11 02:10:23] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html; charset=UTF-8
+[2025-06-11 02:10:23] [class-ss-url-fetcher.php:233] New filename for static page: index.html
+[2025-06-11 02:10:23] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6848e58f72ccf-HLsHeI.tmp to /home2/nolfonzo/public_html/rebrainedwp-content/uploads/simply-static/temp-files/simply-static-1-1749607823/index.html
+[2025-06-11 02:10:23] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-06-11 02:10:23] [class-ss-fetch-urls-task.php:159] Adding 16 URLs to the queue
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-06-11 02:10:24] [class-ss-page.php:119] Checking Content Identical:bff40a5634acfae262691aaa581459df48b1918e===. Value: FALSE
+[2025-06-11 02:10:24] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 0 of 1 pages/files
+[2025-06-11 02:10:24] [class-ss-archive-creation-job.php:241] We're not done with the fetch_urls task yet
+[2025-06-11 02:10:24] [class-ss-archive-creation-job.php:194] Current task: fetch_urls
+[2025-06-11 02:10:24] [class-ss-archive-creation-job.php:208] Performing task: fetch_urls
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:69] Total pages: 16; Pages remaining: 15
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:73] URL: https://rebrained.com/wp-login.php
+[2025-06-11 02:10:24] [class-ss-task.php:58] [PAGES STATUS] Remaining:15; Total: 16
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:80] Excludable found: URL: https://rebrained.com/wp-login.php
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:90] Skipping URL because it is no-save and no-follow
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:73] URL: https://rebrained.comwp-content/themes/twentyten/images/headers/path.jpg
+[2025-06-11 02:10:24] [class-ss-task.php:58] [PAGES STATUS] Remaining:14; Total: 16
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6848e5903d13b-t7REL5.tmp
+[2025-06-11 02:10:24] [class-ss-page-handler.php:38] URL Prepared:https://rebrained.comwp-content/themes/twentyten/images/headers/path.jpg?simply_static_page=3
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:251] Fetching URL: https://rebrained.comwp-content/themes/twentyten/images/headers/path.jpg?simply_static_page=3
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:103] Filesize: 51488 bytes
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/themes/twentyten/images/headers/path.jpg
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6848e5903d13b-t7REL5.tmp to /home2/nolfonzo/public_html/rebrainedwp-content/uploads/simply-static/temp-files/simply-static-1-1749607823wp-content/themes/twentyten/images/headers/path.jpg
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-06-11 02:10:24] [class-ss-page.php:119] Checking Content Identical:5ffd4e67e840b945ff53e09418e35ae82b3673d7===. Value: FALSE
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:73] URL: https://rebrained.comwp-content/uploads/2011/11/circlesquare.jpeg
+[2025-06-11 02:10:24] [class-ss-task.php:58] [PAGES STATUS] Remaining:13; Total: 16
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6848e5905acd2-zRvBOc.tmp
+[2025-06-11 02:10:24] [class-ss-page-handler.php:38] URL Prepared:https://rebrained.comwp-content/uploads/2011/11/circlesquare.jpeg?simply_static_page=4
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:251] Fetching URL: https://rebrained.comwp-content/uploads/2011/11/circlesquare.jpeg?simply_static_page=4
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:103] Filesize: 4439 bytes
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/uploads/2011/11/circlesquare.jpeg
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6848e5905acd2-zRvBOc.tmp to /home2/nolfonzo/public_html/rebrainedwp-content/uploads/simply-static/temp-files/simply-static-1-1749607823wp-content/uploads/2011/11/circlesquare.jpeg
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-06-11 02:10:24] [class-ss-page.php:119] Checking Content Identical:c1eefed08c27f1b0d62c43049c113a333aa5bab9===. Value: FALSE
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:73] URL: https://rebrained.comwp-content/uploads/2011/11/circlesquare-150x150.jpg
+[2025-06-11 02:10:24] [class-ss-task.php:58] [PAGES STATUS] Remaining:12; Total: 16
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6848e5906266f-RYZZA5.tmp
+[2025-06-11 02:10:24] [class-ss-page-handler.php:38] URL Prepared:https://rebrained.comwp-content/uploads/2011/11/circlesquare-150x150.jpg?simply_static_page=5
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:251] Fetching URL: https://rebrained.comwp-content/uploads/2011/11/circlesquare-150x150.jpg?simply_static_page=5
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:103] Filesize: 4694 bytes
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/uploads/2011/11/circlesquare-150x150.jpg
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6848e5906266f-RYZZA5.tmp to /home2/nolfonzo/public_html/rebrainedwp-content/uploads/simply-static/temp-files/simply-static-1-1749607823wp-content/uploads/2011/11/circlesquare-150x150.jpg
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-06-11 02:10:24] [class-ss-page.php:119] Checking Content Identical:1e7449a2456b0e6f09785d989ba05bfe5c61faa9===. Value: FALSE
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:73] URL: https://rebrained.comwp-content/uploads/2011/11/quartercirle.png
+[2025-06-11 02:10:24] [class-ss-task.php:58] [PAGES STATUS] Remaining:11; Total: 16
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6848e59069ab9-mffvjM.tmp
+[2025-06-11 02:10:24] [class-ss-page-handler.php:38] URL Prepared:https://rebrained.comwp-content/uploads/2011/11/quartercirle.png?simply_static_page=6
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:251] Fetching URL: https://rebrained.comwp-content/uploads/2011/11/quartercirle.png?simply_static_page=6
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:103] Filesize: 14869 bytes
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/uploads/2011/11/quartercirle.png
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6848e59069ab9-mffvjM.tmp to /home2/nolfonzo/public_html/rebrainedwp-content/uploads/simply-static/temp-files/simply-static-1-1749607823wp-content/uploads/2011/11/quartercirle.png
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-06-11 02:10:24] [class-ss-page.php:119] Checking Content Identical:6f56543cd6f67ae0b996679eb472549a75b62985===. Value: FALSE
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:73] URL: https://rebrained.comwp-content/uploads/2011/11/quartercirle-300x231.png
+[2025-06-11 02:10:24] [class-ss-task.php:58] [PAGES STATUS] Remaining:10; Total: 16
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6848e5906ef1b-DP8tVN.tmp
+[2025-06-11 02:10:24] [class-ss-page-handler.php:38] URL Prepared:https://rebrained.comwp-content/uploads/2011/11/quartercirle-300x231.png?simply_static_page=7
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:251] Fetching URL: https://rebrained.comwp-content/uploads/2011/11/quartercirle-300x231.png?simply_static_page=7
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:103] Filesize: 28061 bytes
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/uploads/2011/11/quartercirle-300x231.png
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6848e5906ef1b-DP8tVN.tmp to /home2/nolfonzo/public_html/rebrainedwp-content/uploads/simply-static/temp-files/simply-static-1-1749607823wp-content/uploads/2011/11/quartercirle-300x231.png
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-06-11 02:10:24] [class-ss-page.php:119] Checking Content Identical:b9ea047d9b63861836aae50a5b63e2dbe15e4a3d===. Value: FALSE
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:73] URL: http://rebrained.comwp-content/uploads/2020/04/Dijkstra_Animation.gif
+[2025-06-11 02:10:24] [class-ss-task.php:58] [PAGES STATUS] Remaining:9; Total: 16
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6848e59073949-4MiIkf.tmp
+[2025-06-11 02:10:24] [class-ss-page-handler.php:38] URL Prepared:http://rebrained.comwp-content/uploads/2020/04/Dijkstra_Animation.gif?simply_static_page=8
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:251] Fetching URL: http://rebrained.comwp-content/uploads/2020/04/Dijkstra_Animation.gif?simply_static_page=8
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:103] Filesize: 300 bytes
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:119] http_status_code: 301 | content_type: text/html; charset=iso-8859-1
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:147] We weren't able to establish a filename; deleting temp file
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:204] redirect_url: https://rebrained.comwp-content/uploads/2020/04/Dijkstra_Animation.gif
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:223] This looks like a redirect from http to https (or visa versa); adding new URL to the queue
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:73] URL: https://rebrained.comwp-content/plugins/enlighter/resources/mootools-core-yc.js
+[2025-06-11 02:10:24] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 16
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6848e59076b08-fBBX20.tmp
+[2025-06-11 02:10:24] [class-ss-page-handler.php:38] URL Prepared:https://rebrained.comwp-content/plugins/enlighter/resources/mootools-core-yc.js?simply_static_page=9
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:251] Fetching URL: https://rebrained.comwp-content/plugins/enlighter/resources/mootools-core-yc.js?simply_static_page=9
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:103] Filesize: 89614 bytes
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/javascript
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/plugins/enlighter/resources/mootools-core-yc.js
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6848e59076b08-fBBX20.tmp to /home2/nolfonzo/public_html/rebrainedwp-content/uploads/simply-static/temp-files/simply-static-1-1749607823wp-content/plugins/enlighter/resources/mootools-core-yc.js
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-06-11 02:10:24] [class-ss-page.php:119] Checking Content Identical:81e93f76f71e969453e238869f5a83bd241f55cd===. Value: FALSE
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:73] URL: https://rebrained.comwp-content/plugins/enlighter/resources/EnlighterJS.min.js
+[2025-06-11 02:10:24] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 16
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6848e5907ccb4-tc6NRT.tmp
+[2025-06-11 02:10:24] [class-ss-page-handler.php:38] URL Prepared:https://rebrained.comwp-content/plugins/enlighter/resources/EnlighterJS.min.js?simply_static_page=10
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:251] Fetching URL: https://rebrained.comwp-content/plugins/enlighter/resources/EnlighterJS.min.js?simply_static_page=10
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:103] Filesize: 50069 bytes
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/javascript
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/plugins/enlighter/resources/EnlighterJS.min.js
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6848e5907ccb4-tc6NRT.tmp to /home2/nolfonzo/public_html/rebrainedwp-content/uploads/simply-static/temp-files/simply-static-1-1749607823wp-content/plugins/enlighter/resources/EnlighterJS.min.js
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-06-11 02:10:24] [class-ss-page.php:119] Checking Content Identical:07bacb8c9f86172158f88c8b32fd9ca15f1f884e===. Value: FALSE
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:73] URL: https://rebrained.comwp-content/themes/twentyten/style.css
+[2025-06-11 02:10:24] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 16
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6848e590823f6-1qO7eI.tmp
+[2025-06-11 02:10:24] [class-ss-page-handler.php:38] URL Prepared:https://rebrained.comwp-content/themes/twentyten/style.css?simply_static_page=11
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:251] Fetching URL: https://rebrained.comwp-content/themes/twentyten/style.css?simply_static_page=11
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:103] Filesize: 24688 bytes
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/themes/twentyten/style.css
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6848e590823f6-1qO7eI.tmp to /home2/nolfonzo/public_html/rebrainedwp-content/uploads/simply-static/temp-files/simply-static-1-1749607823wp-content/themes/twentyten/style.css
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:159] Adding 1 URLs to the queue
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-06-11 02:10:24] [class-ss-page.php:119] Checking Content Identical:dd53bd8ab561c8965dcabc26cc5d2ff7521c8491===. Value: FALSE
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:73] URL: https://rebrained.com/xmlrpc.php
+[2025-06-11 02:10:24] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 16
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:80] Excludable found: URL: https://rebrained.com/xmlrpc.php
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:90] Skipping URL because it is no-save and no-follow
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:73] URL: https://rebrained.comwp-includes/css/dist/block-library/style.min.css
+[2025-06-11 02:10:24] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 16
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6848e5908bc6c-vBF2eY.tmp
+[2025-06-11 02:10:24] [class-ss-page-handler.php:38] URL Prepared:https://rebrained.comwp-includes/css/dist/block-library/style.min.css?simply_static_page=13
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:251] Fetching URL: https://rebrained.comwp-includes/css/dist/block-library/style.min.css?simply_static_page=13
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:103] Filesize: 116363 bytes
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:233] New filename for static page: wp-includes/css/dist/block-library/style.min.css
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6848e5908bc6c-vBF2eY.tmp to /home2/nolfonzo/public_html/rebrainedwp-content/uploads/simply-static/temp-files/simply-static-1-1749607823wp-includes/css/dist/block-library/style.min.css
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-06-11 02:10:24] [class-ss-page.php:119] Checking Content Identical:8c82643ef63a8389c1b800b7c5d0af9d684b8b24===. Value: FALSE
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:73] URL: https://rebrained.comwp-content/themes/twentyten/blocks.css
+[2025-06-11 02:10:24] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 16
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6848e590951c8-2wYTsj.tmp
+[2025-06-11 02:10:24] [class-ss-page-handler.php:38] URL Prepared:https://rebrained.comwp-content/themes/twentyten/blocks.css?simply_static_page=14
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:251] Fetching URL: https://rebrained.comwp-content/themes/twentyten/blocks.css?simply_static_page=14
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:103] Filesize: 4702 bytes
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/themes/twentyten/blocks.css
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6848e590951c8-2wYTsj.tmp to /home2/nolfonzo/public_html/rebrainedwp-content/uploads/simply-static/temp-files/simply-static-1-1749607823wp-content/themes/twentyten/blocks.css
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-06-11 02:10:24] [class-ss-page.php:119] Checking Content Identical:897e70bdab3f2cc70fba45cd13d76317b26d3720===. Value: FALSE
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:73] URL: https://rebrained.comwp-content/plugins/enlighter/resources/EnlighterJS.min.css
+[2025-06-11 02:10:24] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 16
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6848e5909aa4f-46oOmb.tmp
+[2025-06-11 02:10:24] [class-ss-page-handler.php:38] URL Prepared:https://rebrained.comwp-content/plugins/enlighter/resources/EnlighterJS.min.css?simply_static_page=15
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:251] Fetching URL: https://rebrained.comwp-content/plugins/enlighter/resources/EnlighterJS.min.css?simply_static_page=15
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:103] Filesize: 36621 bytes
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/plugins/enlighter/resources/EnlighterJS.min.css
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6848e5909aa4f-46oOmb.tmp to /home2/nolfonzo/public_html/rebrainedwp-content/uploads/simply-static/temp-files/simply-static-1-1749607823wp-content/plugins/enlighter/resources/EnlighterJS.min.css
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-06-11 02:10:24] [class-ss-page.php:119] Checking Content Identical:47aefe949b7d108fbcbe0218e408987d52417e34===. Value: FALSE
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:73] URL: https://rebrained.com/index.php
+[2025-06-11 02:10:24] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 16
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:80] Excludable found: URL: https://rebrained.com/index.php
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:90] Skipping URL because it is no-save and no-follow
+[2025-06-11 02:10:24] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 1 of 16 pages/files
+[2025-06-11 02:10:24] [class-ss-archive-creation-job.php:241] We're not done with the fetch_urls task yet
+[2025-06-11 02:10:24] [class-ss-archive-creation-job.php:194] Current task: fetch_urls
+[2025-06-11 02:10:24] [class-ss-archive-creation-job.php:208] Performing task: fetch_urls
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:69] Total pages: 18; Pages remaining: 2
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:73] URL: https://rebrained.comwp-content/uploads/2020/04/Dijkstra_Animation.gif
+[2025-06-11 02:10:24] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 18
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6848e590a7bdb-VELbZW.tmp
+[2025-06-11 02:10:24] [class-ss-page-handler.php:38] URL Prepared:https://rebrained.comwp-content/uploads/2020/04/Dijkstra_Animation.gif?simply_static_page=17
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:251] Fetching URL: https://rebrained.comwp-content/uploads/2020/04/Dijkstra_Animation.gif?simply_static_page=17
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:103] Filesize: 9051 bytes
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/gif
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/uploads/2020/04/Dijkstra_Animation.gif
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6848e590a7bdb-VELbZW.tmp to /home2/nolfonzo/public_html/rebrainedwp-content/uploads/simply-static/temp-files/simply-static-1-1749607823wp-content/uploads/2020/04/Dijkstra_Animation.gif
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-06-11 02:10:24] [class-ss-page.php:119] Checking Content Identical:e6c1e1b8c4555508d90f08cc76b283c0be358fc9===. Value: FALSE
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:73] URL: https://rebrained.comwp-content/themes/twentyten/images/wordpress.png
+[2025-06-11 02:10:24] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 18
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:84] URL is not being excluded
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6848e590ade7f-MZzRKw.tmp
+[2025-06-11 02:10:24] [class-ss-page-handler.php:38] URL Prepared:https://rebrained.comwp-content/themes/twentyten/images/wordpress.png?simply_static_page=18
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:251] Fetching URL: https://rebrained.comwp-content/themes/twentyten/images/wordpress.png?simply_static_page=18
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:103] Filesize: 794 bytes
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/themes/twentyten/images/wordpress.png
+[2025-06-11 02:10:24] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6848e590ade7f-MZzRKw.tmp to /home2/nolfonzo/public_html/rebrainedwp-content/uploads/simply-static/temp-files/simply-static-1-1749607823wp-content/themes/twentyten/images/wordpress.png
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2025-06-11 02:10:24] [class-ss-page.php:119] Checking Content Identical:313aff1fffa73433673203db25ff4154d07511e2===. Value: FALSE
+[2025-06-11 02:10:24] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 16 of 18 pages/files
+[2025-06-11 02:10:24] [class-ss-archive-creation-job.php:241] We're not done with the fetch_urls task yet
+[2025-06-11 02:10:24] [class-ss-archive-creation-job.php:194] Current task: fetch_urls
+[2025-06-11 02:10:24] [class-ss-archive-creation-job.php:208] Performing task: fetch_urls
+[2025-06-11 02:10:24] [class-ss-fetch-urls-task.php:69] Total pages: 18; Pages remaining: 0
+[2025-06-11 02:10:24] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 18 of 18 pages/files
+[2025-06-11 02:10:24] [class-ss-archive-creation-job.php:233] We've found our next task: create_zip_archive
+[2025-06-11 02:10:24] [class-ss-archive-creation-job.php:194] Current task: create_zip_archive
+[2025-06-11 02:10:24] [class-ss-archive-creation-job.php:208] Performing task: create_zip_archive
+[2025-06-11 02:10:24] [class-ss-create-zip-archive.php:85] Fetching list of files to include in zip
+[2025-06-11 02:10:24] [class-ss-create-zip-archive.php:94] Creating zip archive
+[2025-06-11 02:10:24] [class-ss-task.php:44] Status message: [create_zip_archive] ZIP archive created:  <a download href="https://rebrained.comwp-content/uploads/simply-static/temp-files/simply-static-1-1749607823.zip">Click here to download</a>
+[2025-06-11 02:10:24] [class-ss-archive-creation-job.php:233] We've found our next task: wrapup
+[2025-06-11 02:10:24] [class-ss-archive-creation-job.php:194] Current task: wrapup
+[2025-06-11 02:10:24] [class-ss-archive-creation-job.php:208] Performing task: wrapup
+[2025-06-11 02:10:24] [class-ss-wrapup-task.php:23] Deleting temporary files
+[2025-06-11 02:10:24] [class-ss-task.php:44] Status message: [wrapup] Wrapping up
+[2025-06-11 02:10:24] [class-ss-archive-creation-job.php:228] This task is done and there are no more tasks, time to complete the job
+[2025-06-11 02:10:24] [class-ss-archive-creation-job.php:273] Completing the job
+[2025-06-11 02:10:24] [class-ss-archive-creation-job.php:414] Status message: [done] Done! Finished in 00:00:01

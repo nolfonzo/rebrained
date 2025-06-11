@@ -1,0 +1,168 @@
+[28-Jul-2019 10:08:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php on line 10
+[04-Dec-2019 10:27:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home1/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/functions.php:32
+Stack trace:
+#0 {main}
+  thrown in /home1/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/functions.php on line 32
+[31-Dec-2019 14:00:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php on line 10
+[05-Jan-2020 00:01:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php on line 10
+[08-Jan-2020 10:18:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php on line 10
+[11-Feb-2020 20:42:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php on line 10
+[11-Feb-2020 21:20:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php on line 10
+[20-Feb-2020 04:19:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php on line 10
+[20-Feb-2020 04:57:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php on line 10
+[04-Mar-2020 10:49:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php on line 10
+[17-Mar-2020 02:15:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php on line 10
+[22-Mar-2020 06:33:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php on line 10
+[22-Mar-2020 06:40:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php on line 10
+[24-Mar-2020 20:33:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php on line 10
+[28-Mar-2020 12:59:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php on line 10
+[28-Mar-2020 13:57:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php on line 10
+[14-Apr-2020 19:05:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php on line 10
+[14-Apr-2020 19:11:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php on line 10
+[03-May-2020 01:09:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php on line 10
+[05-Jun-2020 00:33:48 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php on line 10
+[05-Jun-2020 19:25:44 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php on line 10
+[14-Jun-2020 22:50:57 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php on line 10
+[25-Jun-2020 00:55:45 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php on line 10
+[30-Jun-2020 05:17:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php on line 10
+[09-Jul-2020 18:23:56 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/archive.php:19
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/archive.php on line 19
+[15-Jul-2020 14:03:13 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php on line 10
+[15-Jul-2020 14:52:25 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php on line 10
+[22-Jul-2020 20:12:19 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php on line 10
+[31-Jul-2020 23:29:01 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php on line 10
+[22-Aug-2020 21:35:55 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php on line 10
+[02-Sep-2020 10:00:35 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php on line 10
+[23-Sep-2020 13:11:09 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php on line 10
+[23-Nov-2020 20:34:59 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php on line 10
+[12-Dec-2020 18:53:39 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php on line 10
+[03-Jan-2021 11:24:23 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php on line 10
+[10-Feb-2021 00:22:13 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php on line 10
+[30-Jun-2021 03:40:55 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php on line 10
+[03-Jul-2021 17:38:24 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php on line 10
+[06-Jul-2021 01:50:29 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php on line 10
+[22-Jul-2022 01:25:57 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/404.php on line 10
+[11-Mar-2025 00:44:01 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/index.php on line 17
+[11-Mar-2025 00:51:54 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentysixteen/index.php on line 17

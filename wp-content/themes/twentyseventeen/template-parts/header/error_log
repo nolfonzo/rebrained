@@ -1,0 +1,32 @@
+[30-Mar-2022 09:11:13 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function the_custom_logo() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/header/site-branding.php:15
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/header/site-branding.php on line 15
+[30-Mar-2022 11:20:44 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function the_custom_header_markup() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/header/header-image.php:15
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/header/header-image.php on line 15
+[07-Aug-2022 22:52:59 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function the_custom_logo() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/header/site-branding.php:15
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/header/site-branding.php on line 15
+[08-Aug-2022 00:03:31 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function the_custom_header_markup() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/header/header-image.php:15
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/header/header-image.php on line 15
+[19-Aug-2022 15:07:45 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function the_custom_logo() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/header/site-branding.php:15
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/header/site-branding.php on line 15
+[19-Aug-2022 16:49:19 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function the_custom_header_markup() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/header/header-image.php:15
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/header/header-image.php on line 15
+[06-Jul-2023 20:12:17 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function the_custom_header_markup() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/header/header-image.php:15
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/header/header-image.php on line 15
+[09-Jul-2023 02:41:23 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function the_custom_logo() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/header/site-branding.php:15
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentyseventeen/template-parts/header/site-branding.php on line 15

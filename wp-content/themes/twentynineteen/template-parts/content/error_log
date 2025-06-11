@@ -1,0 +1,4 @@
+[20-Oct-2021 04:34:45 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentynineteen/template-parts/content/content.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/nolfonzo/public_html/rebrainedwp-content/themes/twentynineteen/template-parts/content/content.php on line 14
